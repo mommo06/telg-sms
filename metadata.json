@@ -1,0 +1,7 @@
+{
+  "name": "Telegram SMS",
+  "description": "Forward SMS messages, missed calls, and battery status to Telegram Bot with Carbon Copy and remote control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
